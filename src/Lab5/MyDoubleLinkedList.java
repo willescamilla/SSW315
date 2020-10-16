@@ -1,4 +1,4 @@
-package lab5;
+package Lab5;
 
 public interface MyDoubleLinkedList {
 	//private MyDoubleNode head;
